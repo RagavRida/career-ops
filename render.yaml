@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: apply-jobs-mcp
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+        placeholder: "Your Google AI Studio Gemini API Key"
+      - key: PORT
+        value: 3000
