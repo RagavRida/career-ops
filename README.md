@@ -1,7 +1,7 @@
 # Career-Ops
 
 <p align="center">
-  <a href="https://x.com/raghavendramachikatla"><img src="docs/hero-banner.jpg" alt="Career-Ops — Multi-Agent Job Search System" width="800"></a>
+  <a href="https://x.com/RagavRida"><img src="docs/hero-banner.jpg" alt="Career-Ops — Multi-Agent Job Search System" width="800"></a>
 </p>
 
 <p align="center">
@@ -314,7 +314,7 @@ endorsement.
 ## Let's Connect
 
 [![Website](https://img.shields.io/badge/raghavendramachikatla-000?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/raghavendramachikatla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavendramachikatla)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raghavendramachikatla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-manchikatla-79b12624b/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RagavRida)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavendramachikatla@example.com)
