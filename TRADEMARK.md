@@ -37,7 +37,7 @@ The following uses are explicitly welcome:
 - **Educational, journalistic, and personal use** — blog posts,
   tutorials, videos, talks, papers, research.
 - **Community contributions** — using the name freely in PRs, issues,
-  Discord, and discussions.
+  and discussions.
 
 ## What requires written permission
 
