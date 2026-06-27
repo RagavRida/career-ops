@@ -16,7 +16,8 @@
     "liveness": "node check-liveness.mjs",
     "scan": "node scan.mjs",
     "patterns": "node analyze-patterns.mjs",
-    "gemini:eval": "node gemini-eval.mjs"
+    "gemini:eval": "node gemini-eval.mjs",
+    "email": "node send-email.mjs"
   },
   "keywords": [
     "ai",
@@ -38,6 +39,7 @@
     "@google/generative-ai": "^0.24.1",
     "dotenv": "^17.0.0",
     "js-yaml": "^4.1.1",
+    "nodemailer": "^9.0.1",
     "playwright": "^1.58.1"
   }
 }
